@@ -52,5 +52,5 @@ Use Dummy Passwords:
 When uploading configuration files, such as hibernate.cfg.xml or application.properties, to GitHub, ensure you use dummy passwords. Do not upload your actual database credentials to a public repository.
 
 Example:
-<property name="hibernate.connection.username">dummy_username</property>
-<property name="hibernate.connection.password">dummy_password</property>
+< property name="hibernate.connection.username">dummy_username </ property>
+< property name="hibernate.connection.password">dummy_password </ property>
